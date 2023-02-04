@@ -28,11 +28,17 @@ body{
 
 h2{
     margin: 0;
+    text-align: center;
+    padding: 1rem;
 }
 
 ul li{
     margin: 1rem 0;
     font-size: 1.1rem;
+}
+
+ul li label {
+    cursor: pointer;
 }
 
 .quiz-header{
